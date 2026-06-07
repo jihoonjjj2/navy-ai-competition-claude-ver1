@@ -1,0 +1,15 @@
+torch
+timm
+torchvision
+librosa
+soundfile
+scipy
+scikit-learn
+lightgbm
+xgboost
+pandas
+numpy
+matplotlib
+pillow
+pyyaml
+tqdm
